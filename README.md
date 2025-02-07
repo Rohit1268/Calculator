@@ -21,4 +21,3 @@ The Calculator Using Python is a simple yet powerful project that performs basic
 - Learning Python programming through a simple application
 - Enhancing problem-solving and GUI development skills
 
-Would you like a sample code snippet or enhancements like scientific functions? 🚀
